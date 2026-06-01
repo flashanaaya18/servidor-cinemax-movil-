@@ -1,8 +1,8 @@
 {
-  "latestVersion": "7.0.2",
+  "latestVersion": "7.0.3",
   "apkUrl": "https://github.com/flashanaaya18/servidor-cinemax-movil-/releases/download/v7.0.1/CineMax-v7.0.1-arm64-v8a.apk",
   "apkUrlArm32": "https://github.com/flashanaaya18/servidor-cinemax-movil-/releases/download/v7.0.1/CineMax-v7.0.1-armeabi-v7a.apk",
   "apkUrlX86": "https://github.com/flashanaaya18/servidor-cinemax-movil-/releases/download/v7.0.1/CineMax-v7.0.1-x86_64.apk",
   "isRequired": false,
-  "releaseNotes": "⚽ Nueva sección Fútbol (Próximamente)\n🔧 Fix actualización automática de la app\n🎭 Catálogo Dramas mejorado"
+  "releaseNotes": "⚽ Fútbol: Agregada información de la Liga MX, torneos internacionales y servidores premium optimizados.\n🔒 Seguridad: Verificación de actualizaciones directamente al iniciar la app junto a la sesión."
 }
