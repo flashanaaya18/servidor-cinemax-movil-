@@ -4,5 +4,5 @@
   "apkUrlArm32": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_arm32.apk",
   "apkUrlX86": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_x86.apk",
   "isRequired": false,
-  "releaseNotes": "Hemos solucionado el bug de sagas y filtros en algunos sistemas y mejoras generales de compatibilidad."
+  "releaseNotes": "Corrección en banners promocionales para usuarios VIP (100% libres de publicidad) y mejoras generales de compatibilidad."
 }
