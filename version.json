@@ -1,8 +1,8 @@
 {
-  "latestVersion": "7.1.1",
+  "latestVersion": "7.1.2",
   "apkUrl": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_arm64.apk",
   "apkUrlArm32": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_arm32.apk",
   "apkUrlX86": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_x86.apk",
   "isRequired": true,
-  "releaseNotes": "Corrección en banners promocionales para usuarios VIP (100% libres de publicidad) y mejoras generales de compatibilidad."
+  "releaseNotes": "Eliminado fútbol y sagas home, buscador optimizado y mejoras de estabilidad."
 }
