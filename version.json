@@ -4,5 +4,5 @@
   "apkUrlArm32": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_arm32.apk",
   "apkUrlX86": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_x86.apk",
   "isRequired": true,
-  "releaseNotes": "🚀 ¡Velox Play v7.3.0 ya está aquí!\n\n📺 Historial y Continuar viendo unificado para animes\n🔍 Buscador ultra rápido con respuesta en tiempo real (debounce a 200ms)\n💎 Tienda VIP simplificada con enlace y mensaje directo a WhatsApp (5616840524)\n⚡ Servidores de video y animes optimizados con reproducción instantánea"
+  "releaseNotes": "Disculpas por el error en la sección de series. Ya se ha solucionado y funciona con normalidad. Se eliminó basura del proyecto para reducir el peso."
 }
