@@ -1,8 +1,8 @@
 {
-  "latestVersion": "7.3.3",
+  "latestVersion": "7.3.4",
   "apkUrl": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_arm64.apk",
   "apkUrlArm32": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_arm32.apk",
   "apkUrlX86": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_x86.apk",
   "isRequired": true,
-  "releaseNotes": "Actualización 7.3.3: Mejoras en reproductor de fútbol StreamX HD, optimización de velocidad sin trabas y soporte completo de escudos de equipos."
+  "releaseNotes": "Actualización 7.3.4: Eliminada sección Sagas y Franquicias, interfaz móvil optimizada y mejoras generales de estabilidad."
 }
