@@ -3,6 +3,6 @@
   "apkUrl": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_arm64.apk",
   "apkUrlArm32": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_arm32.apk",
   "apkUrlX86": "https://github.com/flashanaaya18/servidor-cinemax-movil-/raw/main/cinemax_plus_x86.apk",
-  "isRequired": true,
-  "releaseNotes": "🚀 ¡Nueva versión TV v7.3.6!\n\n📺 Ajuste automático de pantalla y sincronización nativa de FPS (60/120 FPS)\n🧹 Limpieza de memoria RAM y caché del sistema\n⚡ Optimización de servidores y máxima fluidez en Smart TV"
+  "isRequired": false,
+  "releaseNotes": "¡Actualización exclusiva para TV! Optimización completa para Smart TV y TV Box con soporte de control remoto, corrección de audio/subtítulos y navegación fluida."
 }
